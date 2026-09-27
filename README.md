@@ -1,87 +1,38 @@
-<h1 align="center">Hi there, I'm Fatima Arain 👋</h1>
+# 💫 About Me:
+👩‍💻 About Me<br>🎓 Second-year BS Computer Science student at University of Sindh, Laar Campus, Badin<br>🌱 Currently learning Advanced Database (T-SQL)<br>💡 Working on Machine Learning, Data Science & Data Analysis projects<br>📊 Skilled across Python, Java, C, C++, SQL/T-SQL, JavaScript, HTML/CSS and data libraries<br>📫 Reach me at arainfatima87@gmail.com
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=440&lines=Machine+Learning+Engineer;Data+Scientist;Python+Developer;ML+Enthusiast" alt="Typing SVG" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-arain-72210b361) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Fatima Abdul Lateef Arain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arainfatima87@gmail.com) 
 
-### 👩‍💻 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Fatima-Arain206&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Fatima-Arain206&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fatima-Arain206&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🎓 Second-year BS Computer Science student at University of Sindh, Laar Campus, Badin
-- 🌱 Currently learning **Advanced Database (T-SQL)**
-- 💡 Working on **Machine Learning, Data Science & Data Analysis** projects
-- 📊 Skilled across Python, Java, C, C++, SQL/T-SQL, JavaScript, HTML/CSS and data libraries
-- 📫 Reach me at **arainfatima87@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fatima-Arain206&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛠️ Tech Stack
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fatima-Arain206&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TSQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+###📁 Projects
+Project	Description
+TikTok Claims Classification	ML classification project analyzing TikTok claims data (Google Advanced Data Analytics Certificate)
+Waze User Churn Analysis	EDA & statistical analysis to predict user churn
+Smart Diet & Nutrition Optimizer	Optimizing diet plans using data-driven logic
+Intro to SQL	SQL fundamentals and query practice
+Math for Machine Learning	Notebooks covering the math foundations behind ML
+SoftGrowTech Internship Project	Final project completed during my internship at SoftGrowTech
+Java DSA Basics	Data Structures & Algorithms practice in Java
 
 ---
+[![](https://komarev.com/ghpvc/?username=Fatima-Arain206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatima-Arain206&show_icons=true&theme=default" alt="Fatima's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Fatima-Arain206&theme=default" alt="Fatima's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=Fatima-Arain206&layout=compact&theme=default" alt="Most Used Languages" height="165"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fatima-Arain206/Fatima-Arain206/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 📁 Personal Projects
-
-| Project | Description |
-|---|---|
-| **[TikTok Claims Classification](https://github.com/Fatima-Arain206/Google-Data-Analytics-Portfolio-Projects.git)** | ML classification project analyzing TikTok claims data (Google Advanced Data Analytics Certificate) |
-| **[Waze User Churn Analysis](https://github.com/Fatima-Arain206/Google-Data-Analytics-Portfolio-Projects.git)** | EDA & statistical analysis to predict user churn |
-| **[Smart Diet & Nutrition Optimizer](https://github.com/Fatima-Arain206/Smart_Diet_And_Nutrition-_Optimizer.git)** | Optimizing diet plans using data-driven logic |
-| **Intro to SQL** | SQL fundamentals and query practice |
-| **Math for Machine Learning** | Notebooks covering the math foundations behind ML |
-| **[SoftGrowTech Internship Project](https://github.com/Fatima-Arain206/SOFTGROWTECH_INTERNSHIP_FINAL_PROJECT.git)** | Final project completed during my internship at SoftGrowTech |
-| **[Java DSA Basics](https://github.com/Fatima-Arain206/javaDSABAsics.git)** | Data Structures & Algorithms practice in Java |
-
----
-
-### 🌐 Socials
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arainfatima87@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-arain-72210b361)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
