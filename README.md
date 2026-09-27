@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-Arain206&layout=compact&theme=default" alt="Most Used Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=Fatima-Arain206&layout=compact&theme=default" alt="Most Used Languages" height="165"/>
 </p>
 
 ---
@@ -74,8 +74,8 @@
 | **[TikTok Claims Classification](https://github.com/Fatima-Arain206/Google-Data-Analytics-Portfolio-Projects.git)** | ML classification project analyzing TikTok claims data (Google Advanced Data Analytics Certificate) |
 | **[Waze User Churn Analysis](https://github.com/Fatima-Arain206/Google-Data-Analytics-Portfolio-Projects.git)** | EDA & statistical analysis to predict user churn |
 | **[Smart Diet & Nutrition Optimizer](https://github.com/Fatima-Arain206/Smart_Diet_And_Nutrition-_Optimizer.git)** | Optimizing diet plans using data-driven logic |
-| ** [Intro to SQL] (https://github.com/Fatima-Arain206/intro_to_SQL.git)** | SQL fundamentals and query practice |
-| **[Math for Machine Learning](https://github.com/Fatima-Arain206/math-for-machine-learning.git)** | Notebooks covering the math foundations behind ML|
+| **Intro to SQL** | SQL fundamentals and query practice |
+| **Math for Machine Learning** | Notebooks covering the math foundations behind ML |
 | **[SoftGrowTech Internship Project](https://github.com/Fatima-Arain206/SOFTGROWTECH_INTERNSHIP_FINAL_PROJECT.git)** | Final project completed during my internship at SoftGrowTech |
 | **[Java DSA Basics](https://github.com/Fatima-Arain206/javaDSABAsics.git)** | Data Structures & Algorithms practice in Java |
 
