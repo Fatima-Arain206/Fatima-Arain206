@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=440&lines=Machine+Learning+Engineer;Data+Scientist;Python+Developer;ML+Enthusiast" alt="Typing SVG" />
+</p>
+
 👩‍💻 About Me<br>🎓 Second-year BS Computer Science student at University of Sindh, Laar Campus, Badin<br>🌱 Currently learning Advanced Database (T-SQL)<br>💡 Working on Machine Learning, Data Science & Data Analysis projects<br>📊 Skilled across Python, Java, C, C++, SQL/T-SQL, JavaScript, HTML/CSS and data libraries<br>📫 Reach me at arainfatima87@gmail.com
 
 
@@ -21,16 +26,19 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Fatima-Arain206&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
-###📁 Projects
-Project	Description
-TikTok Claims Classification	ML classification project analyzing TikTok claims data (Google Advanced Data Analytics Certificate)
-Waze User Churn Analysis	EDA & statistical analysis to predict user churn
-Smart Diet & Nutrition Optimizer	Optimizing diet plans using data-driven logic
-Intro to SQL	SQL fundamentals and query practice
-Math for Machine Learning	Notebooks covering the math foundations behind ML
-SoftGrowTech Internship Project	Final project completed during my internship at SoftGrowTech
-Java DSA Basics	Data Structures & Algorithms practice in Java
+## 📁 Projects
+
+| Project | Description |
+|---|---|
+| **[TikTok Claims Classification](https://github.com/Fatima-Arain206/Google-Data-Analytics-Portfolio-Projects.git)** | ML classification project analyzing TikTok claims data (Google Advanced Data Analytics Certificate) |
+| **[Waze User Churn Analysis](https://github.com/Fatima-Arain206/Google-Data-Analytics-Portfolio-Projects.git)** | EDA & statistical analysis to predict user churn |
+| **[Smart Diet & Nutrition Optimizer](https://github.com/Fatima-Arain206/Smart_Diet_And_Nutrition-_Optimizer.git)** | Optimizing diet plans using data-driven logic |
+| **Intro to SQL** | SQL fundamentals and query practice |
+| **Math for Machine Learning** | Notebooks covering the math foundations behind ML |
+| **[SoftGrowTech Internship Project](https://github.com/Fatima-Arain206/SOFTGROWTECH_INTERNSHIP_FINAL_PROJECT.git)** | Final project completed during my internship at SoftGrowTech |
+| **[Java DSA Basics](https://github.com/Fatima-Arain206/javaDSABAsics.git)** | Data Structures & Algorithms practice in Java |
 
 ---
 [![](https://komarev.com/ghpvc/?username=Fatima-Arain206&icon=0&color=0)](https://visitcount.itsvg.in)
