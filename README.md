@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Machine Learning ,Database management and a Software Engineering projects.<br>👯 I’m looking to collaborate on: Open-source Python and ML, or interesting Data Analytics dashboards.<br>🤝 I’m looking for help with: Advanced Machine Learning workflows and deployment.<br>🌱 I’m currently learning: Advance data analytics  and advanced SQL querying techniques.<br>💬 Ask me about: Python programming, Java basics, SQL databases, or how to get started with GitHub configurations.
+🔭 I’m currently working on: Machine Learning/Data Science g projects.<br>👯 I’m looking to collaborate on: Open-source Python and ML, or interesting Data Analytics dashboards.<br>🤝 I’m looking for help with: Advanced Machine Learning workflows and deployment.<br>🌱 I’m currently learning: Advance data analytics  and advanced SQL querying techniques.<br>💬 Ask me about: Python programming, Java basics, SQL databases, or how to get started with GitHub configurations.
 
 
 ## 🌐 Socials:
